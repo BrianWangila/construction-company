@@ -82,7 +82,7 @@
       <div class="row justify-content-center align-items-center">
         <div class="learn-more col-12 col-lg-6">
           <h2 class="text-warning mb-4 animate__animated animate__fadeInUp" style="animation-delay: 1.4s">About Us</h2>
-          <p class="text-dark mb-3 animate__animated animate__fadeIn" style="animation-delay: 1.6s">Founded in 2015 in Bungoma, Kenya, Sindana Construction Co. began with a mission to deliver quality construction and supply solutions tailored to a dynamic world. Our vision is to be Kenya’s leading provider of innovative, sustainable services, transforming landscapes and supporting communities.</p>
+          <p class="text-dark mb-3 animate__animated animate__fadeIn" style="animation-delay: 1.6s">Founded in 2025 in Bungoma, Kenya, Sindana Construction Co. began with a mission to deliver quality construction and supply solutions tailored to a dynamic world. Our vision is to be Kenya’s leading provider of innovative, sustainable services, transforming landscapes and supporting communities.</p>
           <p class="text-dark mb-3 animate__animated animate__fadeIn" style="animation-delay: 1.8s">With a skilled team, advanced equipment, and a commitment to sustainability, we serve clients nationwide. Beyond construction, we excel in general supplies, catering to diverse needs with integrity and excellence.</p>
           <ul class="list-group list-group-flush">
             <li class="list-group-item bg-light text-dark animate__animated animate__fadeIn" style="animation-delay: 2.0s"><i class="bi bi-check-circle text-warning me-2"></i> Integrity in every project</li>
@@ -150,7 +150,7 @@
     </div> -->
 
     <!-- Latest Projects Section -->
-    <div class="container py-5">
+    <!-- <div class="container py-5">
       <div class="row justify-content-center">
         <div class="col-12 text-center mb-5">
           <h2 class="display-4 text-warning animate__animated animate__fadeInUp" style="animation-delay: 4.2s">Our Latest Projects</h2>
@@ -166,7 +166,7 @@
                   <img src="https://images.unsplash.com/photo-1616764469868-7d70683e8b45?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top h-10 w-auto" alt="Project Alpha">
                   <div class="card-body">
                     <h5 class="card-title text-warning">Project Alpha: Modern Office Complex</h5>
-                    <p class="card-text">Completed in 2024, featuring solar panels and energy-efficient design for 15 businesses.</p>
+                    <p class="card-text">Featuring solar panels and energy-efficient design for 15 businesses.</p>
                   </div>
                 </div>
               </div>
@@ -175,7 +175,7 @@
                   <img src="https://images.squarespace-cdn.com/content/v1/60e155da3e6d353c239ba417/abe93799-d68f-4bcf-bedb-bb6f7ee54eaa/CARBNSTUDIO+ARCHITECT+SPRING+VALLEY+DESIGN+MODERN+DESIGN+LUXURY+HOMES++%283%29.jpg" class="card-img-top" alt="Project Beta">
                   <div class="card-body">
                     <h5 class="card-title text-warning">Project Beta: Residential Villas</h5>
-                    <p class="card-text">Eco-friendly villas completed in 2023, reducing energy use by 30% for 15 families.</p>
+                    <p class="card-text">Eco-friendly villas, reducing energy use by 30% for 15 families.</p>
                   </div>
                 </div>
               </div>
@@ -184,7 +184,7 @@
                   <img src="https://images.unsplash.com/photo-1575281923032-f40d94ef6160?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="Project Gamma">
                   <div class="card-body">
                     <h5 class="card-title text-warning">Project Gamma: Infrastructure Upgrade</h5>
-                    <p class="card-text">Ongoing since 2023, upgrading 50 km of roads for improved connectivity.</p>
+                    <p class="card-text">Ongoing, upgrading 50 km of roads for improved connectivity.</p>
                   </div>
                 </div>
               </div>
@@ -201,7 +201,7 @@
           <router-link to="/projects" class="btn btn-warning mt-3 text-dark fw-bold transition-all duration-500 hover:bg-teal-500 d-block mx-auto" style="width: 200px;">View All Projects</router-link>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <!-- Why Sindana Stands Out Section -->
     <div class="container py-5">

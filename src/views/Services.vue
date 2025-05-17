@@ -14,7 +14,7 @@
       <div class="row justify-content-center">
         <div class="col-12 col-lg-10">
           <h2 class="text-warning mb-4">Service Overview</h2>
-          <p class="text-dark mb-3">At Sindana Construction Co., we offer a wide range of construction and supply services designed to meet the diverse needs of our clients across Kenya. Since 2015, we’ve built a reputation for delivering top-quality solutions, from foundational construction to finishing touches, and providing high-quality materials for every project. Our services are tailored to ensure timely completion, cost efficiency, and sustainability, making us a trusted partner for both individual and corporate clients.</p>
+          <p class="text-dark mb-3">At Sindana Construction Co., we offer a wide range of construction and supply services designed to meet the diverse needs of our clients across Kenya. Since 2025, we’ve built a reputation for delivering top-quality solutions, from foundational construction to finishing touches, and providing high-quality materials for every project. Our services are tailored to ensure timely completion, cost efficiency, and sustainability, making us a trusted partner for both individual and corporate clients.</p>
           <p class="text-dark">Our team leverages advanced equipment, industry best practices, and a nationwide supply network to deliver exceptional results. Explore our services below to see how we can support your next project.</p>
         </div>
       </div>
@@ -197,11 +197,10 @@
       </div>
 
       <!-- Case Studies Section -->
-      <div class="row justify-content-center mt-5">
+      <!-- <div class="row justify-content-center mt-5">
         <div class="col-12 col-lg-10">
           <h2 class="text-warning mb-4">Case Studies</h2>
 
-          <!-- Case Study 1: Office Renovation -->
           <div class="card bg-light text-dark p-4 rounded-4 shadow-lg mb-4">
             <h4 class="card-title text-warning mb-3">Office Renovation in Bungoma</h4>
             <p class="card-text mb-2"><strong>Client:</strong> Local Tech Startup</p>
@@ -209,7 +208,6 @@
             <p class="card-text"><strong>Outcome:</strong> The client reported a 15% increase in employee productivity due to the improved workspace.</p>
           </div>
 
-          <!-- Case Study 2: Residential Construction -->
           <div class="card bg-light text-dark p-4 rounded-4 shadow-lg mb-4">
             <h4 class="card-title text-warning mb-3">Residential Construction in Bumula</h4>
             <p class="card-text mb-2"><strong>Client:</strong> Private Homeowner</p>
@@ -217,7 +215,6 @@
             <p class="card-text"><strong>Outcome:</strong> The homeowner praised the durability of the roofing and the energy efficiency of the windows.</p>
           </div>
 
-          <!-- Case Study 3: School Infrastructure -->
           <div class="card bg-light text-dark p-4 rounded-4 shadow-lg mb-4">
             <h4 class="card-title text-warning mb-3">School Infrastructure Upgrade</h4>
             <p class="card-text mb-2"><strong>Client:</strong> Bungoma County Education Board</p>
@@ -225,14 +222,14 @@
             <p class="card-text"><strong>Outcome:</strong> The upgraded facilities now serve 300 students, improving access to education in the region.</p>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <!-- Call to Action -->
       <div class="row justify-content-center mt-5 text-center">
         <div class="col-12 col-lg-10">
           <h2 class="text-warning mb-4">Need Construction or Supply Services?</h2>
           <p class="text-dark mb-4">Contact us today to discuss your project needs. We’re here to deliver quality solutions tailored to your requirements!</p>
-          <router-link to="/services" class="btn btn-warning text-dark fw-bold transition-all duration-500 hover:bg-teal-500">Get in Touch</router-link>
+          <a href="mailto:info@sindana.co.ke" class="btn btn-warning text-dark fw-bold transition-all duration-500 hover:bg-teal-500">Get in Touch</a>
         </div>
       </div>
     </div>

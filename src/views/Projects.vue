@@ -14,7 +14,7 @@
         <div class="row justify-content-center">
           <div class="col-12 col-lg-10">
             <h2 class="text-warning mb-4">Project Portfolio Overview</h2>
-            <p class="text-dark mb-3">Since our founding in 2015, Sindana Construction Co. has completed numerous projects across Kenya, ranging from modern office complexes to residential developments and infrastructure upgrades. Our projects are designed to meet the unique needs of our clients while promoting sustainability and community development. We pride ourselves on delivering quality craftsmanship, innovative designs, and timely completion, ensuring every project leaves a lasting impact.</p>
+            <p class="text-dark mb-3">Since our founding in 2025, Sindana Construction Co. has completed numerous projects across Kenya, ranging from modern office complexes to residential developments and infrastructure upgrades. Our projects are designed to meet the unique needs of our clients while promoting sustainability and community development. We pride ourselves on delivering quality craftsmanship, innovative designs, and timely completion, ensuring every project leaves a lasting impact.</p>
             <p class="text-dark">Our portfolio showcases our expertise in construction, supply chain management, and project execution, with a focus on using advanced technology and eco-friendly materials. Below, explore some of our flagship projects and see how we’re shaping the future of Bungoma and beyond.</p>
           </div>
         </div>
@@ -32,7 +32,7 @@
                 </div>
                 <div class="col-12 col-md-6">
                   <h3 class="card-title text-warning mb-3">Project Alpha: Modern Office Complex</h3>
-                  <p class="card-text mb-2"><strong>Completed:</strong> March 2024</p>
+                  <!-- <p class="card-text mb-2"><strong>Completed:</strong> March 2024</p> -->
                   <p class="card-text mb-2"><strong>Location:</strong> Bungoma Town Center</p>
                   <p class="card-text mb-3">Project Alpha is a state-of-the-art office complex spanning 10,000 square feet, designed to serve as a hub for local businesses. The project features sustainable elements like solar panels, energy-efficient lighting, and a modern HVAC system. We collaborated with local architects to create a space that blends functionality with aesthetic appeal.</p>
                   <p class="card-text mb-3"><strong>Challenges:</strong> The site’s proximity to a busy market required careful noise and traffic management. We also faced delays due to supply chain disruptions for imported materials.</p>
@@ -50,7 +50,7 @@
                 </div>
                 <div class="col-12 col-md-6">
                   <h3 class="card-title text-warning mb-3">Project Beta: Residential Villas</h3>
-                  <p class="card-text mb-2"><strong>Completed:</strong> December 2023</p>
+                  <!-- <p class="card-text mb-2"><strong>Completed:</strong> December 2023</p> -->
                   <p class="card-text mb-2"><strong>Location:</strong> Outskirts of Bungoma</p>
                   <p class="card-text mb-3">Project Beta consists of 15 eco-friendly villas, each designed to offer luxury and sustainability. Features include green roofing, rainwater harvesting systems, and interiors made with locally sourced materials. The villas cater to families seeking modern, environmentally conscious living spaces.</p>
                   <p class="card-text mb-3"><strong>Challenges:</strong> The project site was prone to flooding, and sourcing sustainable materials within budget was difficult.</p>
@@ -68,7 +68,7 @@
                 </div>
                 <div class="col-12 col-md-6">
                   <h3 class="card-title text-warning mb-3">Project Gamma: Infrastructure Upgrade</h3>
-                  <p class="card-text mb-2"><strong>Completed:</strong> Ongoing (Started 2023)</p>
+                  <!-- <p class="card-text mb-2"><strong>Completed:</strong> Ongoing (Started 2023)</p> -->
                   <p class="card-text mb-2"><strong>Location:</strong> Various Locations in Bungoma County</p>
                   <p class="card-text mb-3">Project Gamma involves the upgrade of over 50 km of roads and bridges in Bungoma County, aimed at enhancing connectivity and safety. We’ve used advanced engineering techniques, including reinforced concrete and asphalt overlays, to ensure durability in high-traffic areas.</p>
                   <p class="card-text mb-3"><strong>Challenges:</strong> Working in rural areas with limited access to heavy machinery and dealing with seasonal weather disruptions.</p>
@@ -169,7 +169,7 @@
           <div class="col-12 col-lg-10">
             <h2 class="text-warning mb-4">Ready to Start Your Next Project?</h2>
             <p class="text-dark mb-4">Contact us today to discuss your construction or supply needs. Let’s build something extraordinary together!</p>
-            <router-link to="/projects" class="btn btn-warning text-dark fw-bold transition-all duration-500 hover:bg-teal-500">Get in Touch</router-link>
+            <router-link to="/about" class="btn btn-warning text-dark fw-bold transition-all duration-500 hover:bg-teal-500">Get in Touch</router-link>
           </div>
         </div>
       </div>

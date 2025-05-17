@@ -6,7 +6,7 @@
           <div class="col-12 col-md-6 col-lg-3">
             <div class="text-center text-lg-start">
               <img src="/logo.PNG" alt="Sindana Construction Logo" class="footer-logo mb-3">
-              <p class="text-gray-300">Sindana Construction Co. is a leading provider of construction services and general supplies in Kenya, based in Bungoma since 2015. We deliver quality, innovation, and sustainability in every project.</p>
+              <p class="text-gray-300">Sindana Construction Co. is a leading provider of construction services and general supplies in Kenya, based in Bungoma since 2025. We deliver quality, innovation, and sustainability in every project.</p>
             </div>
           </div>
 
@@ -16,7 +16,7 @@
             <ul class="list-unstyled">
               <li><router-link to="/" class="text-gray-300 hover:text-teal-500 transition-all duration-300">Home</router-link></li>
               <li><router-link to="/supplies" class="text-gray-300 hover:text-teal-500 transition-all duration-300">General Supplies</router-link></li>
-              <li><router-link to="/services" class="text-gray-300 hover:text-teal-500 transition-all duration-300">Services</router-link></li>
+              <li><router-link to="/services" class="text-gray-300 hover:text-teal-500 transition-all duration-300">Our Services</router-link></li>
               <li><router-link to="/projects" class="text-gray-300 hover:text-teal-500 transition-all duration-300">Our Projects</router-link></li>
               <li><a href="#" class="text-gray-300 hover:text-teal-500 transition-all duration-300">Careers</a></li>
             </ul>
@@ -28,7 +28,7 @@
             <ul class="list-unstyled text-gray-300">
               <li><strong>Address:</strong> P.O Box 550, Bungoma, Kenya</li>
               <li><strong>Phone:</strong> +254 714 949 268</li>
-              <li><strong>Email:</strong> <a href="mailto:sindaniwafula@gmail.com" class="text-warning hover:text-teal-500 transition-all duration-300">sindaniwafula@gmail.com</a></li>
+              <li><strong>Email:</strong> <a href="mailto:info@sindana.co.ke" class="text-warning hover:text-teal-500 transition-all duration-300">info@sindana.co.ke</a></li>
               <li><strong>Office Hours:</strong> Mon–Fri, 8:00 AM–5:00 PM</li>
               <li class="mt-2">
                 <strong>Follow Us:</strong><br>
@@ -57,7 +57,7 @@
 
         <!-- Copyright Section -->
         <div class="copyright text-center">
-          <p class="text-gray-400 mb-0">&copy; 2025 Sindana Construction Co. All Rights Reserved.</p>
+          <p class="text-gray-400 mb-0">&copy;2025 Sindana Construction Co. All Rights Reserved.</p>
           <p class="text-gray-900 mb-0 fs-9">Designed by <span>Ravvytek Solutions</span></p>
           <p class="text-gray-400 mt-1">
             <a href="#" class="text-warning hover:text-teal-500 transition-all duration-300">Privacy Policy</a> | 

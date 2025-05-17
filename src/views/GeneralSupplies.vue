@@ -14,7 +14,7 @@
       <div class="row justify-content-center">
         <div class="col-12 col-lg-10">
           <h2 class="text-warning mb-4 animate__animated animate__fadeIn" style="animation-delay: 0.4s">About Our General Supplies</h2>
-          <p class="text-dark mb-3 animate__animated animate__fadeIn" style="animation-delay: 0.6s">Since 2015, Sindana Construction Co. has expanded beyond construction to become a leading provider of general supplies in Kenya. We cater to small businesses, corporate entities, government departments, and individual clients, offering a comprehensive range of products from office essentials to industrial materials. Our nationwide delivery network ensures that clients in urban centers and remote areas receive top-tier quality at competitive prices.</p>
+          <p class="text-dark mb-3 animate__animated animate__fadeIn" style="animation-delay: 0.6s">Since 2025, Sindana Construction Co. has expanded beyond construction to become a leading provider of general supplies in Kenya. We cater to small businesses, corporate entities, government departments, and individual clients, offering a comprehensive range of products from office essentials to industrial materials. Our nationwide delivery network ensures that clients in urban centers and remote areas receive top-tier quality at competitive prices.</p>
           <p class="text-dark animate__animated animate__fadeIn" style="animation-delay: 0.8s">Drawing on our expertise in supply chain management, we partner with trusted manufacturers and distributors to provide customized solutions. Whether you need stationery for your office, electronics for your operations, or materials for maintenance, we deliver with precision and care, supported by our skilled logistics team.</p>
         </div>
       </div>
@@ -141,7 +141,7 @@
         <div class="col-12 col-lg-10">
           <h2 class="text-warning mb-4 animate__animated animate__fadeIn" style="animation-delay: 4.0s">Need General Supplies?</h2>
           <p class="text-dark mb-4 animate__animated animate__fadeIn" style="animation-delay: 4.2s">Request a quote today or contact us to discuss your supply needs. We’re here to support your business with quality and reliability!</p>
-          <router-link to="/supplies" class="btn btn-warning text-dark fw-bold transition-all duration-500 hover:bg-teal-500 animate__animated animate__fadeIn" style="animation-delay: 4.4s">Request a Quote</router-link>
+          <a href="mailto:info@sindana.co.ke" class="btn btn-warning text-dark fw-bold transition-all duration-500 hover:bg-teal-500 animate__animated animate__fadeIn" style="animation-delay: 4.4s">Request a Quote</a>
         </div>
       </div>
     </div>

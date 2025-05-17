@@ -29,9 +29,9 @@
           <li class="nav-item">
             <router-link class="nav-link" to="/supplies">General Supplies</router-link>
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <router-link class="nav-link" to="/projects">Projects</router-link>
-          </li>
+          </li> -->
           <li class="nav-item">
             <router-link class="nav-link" to="/about">About</router-link>
           </li>
