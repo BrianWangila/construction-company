@@ -15,6 +15,7 @@
         <h3 class="text-warning mb-4">Our Story</h3>
         <p class="text-dark mb-3">Founded in 2015 in Bungoma, Kenya, Sindana Construction Co. was established with a clear mission: to help businesses and communities overcome the challenges of construction and supply needs through accessible, high-quality services. Our founders, seasoned professionals in construction and supply chain management, recognized the gap in affordable and reliable solutions for local enterprises. Over the past decade, we’ve grown from a small team in Bumula District to a respected name across Kenya, facilitating over $10 million in construction projects and supply transactions. We’ve expanded our operations to serve clients in urban and rural areas, delivering innovative solutions with a commitment to excellence.</p>
         <p class="text-dark">Our journey includes partnerships with leading manufacturers and distributors, enabling us to provide a wide range of building materials, general supplies, and construction services. We take pride in equipping job sites with specialized tools like truck-mounted forklifts, ensuring safe and efficient deliveries to even the most challenging locations.</p>
+        <a href="/assets/SINDANA_COMPANY_PROFILE.pdf" download class="btn btn-outline-warning mt-3">Download Company Profile</a>
       </div>
     </div>
 
@@ -68,7 +69,6 @@
       </div>
     </div>
 
-
     <!-- Future Goals -->
     <div class="row justify-content-center mt-4">
       <div class="col-12 col-lg-10">
@@ -79,14 +79,8 @@
   </div>
 </template>
 
-
-
 <script setup>
-
-
 </script>
-
-
 
 <style scoped>
   .about {

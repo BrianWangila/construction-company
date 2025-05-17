@@ -13,7 +13,7 @@
           </div>
         </div>
         <div class="carousel-item">
-          <div class="header-section position-relative d-flex align-items-center justify-content-center text-center" style="height: 70vh; background: url('https://www.businessdailyafrica.com/resource/image/4692632/landscape_ratio16x9/1600/900/447f6a857aac20cdbb5b8cf4eecc9adf/Gf/office.jpg') no-repeat center center; background-size: cover;">
+          <div class="header-section position-relative d-flex align-items-center justify-content-center text-center" style="height: 70vh; background: url('https://images.unsplash.com/photo-1656646424878-7c4b91097175?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') no-repeat center center; background-size: cover;">
             <div class="overlay position-absolute top-0 start-0 w-100 h-100 bg-gradient bg-teal-500 opacity-40"></div>
             <div class="position-relative z-10">
               <h1 class="display-3 text-warning fw-bold mb-1  animate__animated animate__fadeInUp">Building Your Future</h1>
@@ -26,7 +26,7 @@
             <div class="overlay position-absolute top-0 start-0 w-100 h-100 bg-gradient bg-orange-500 opacity-40"></div>
             <div class="position-relative z-10">
               <h1 class="display-3 text-warning fw-bold mb-1 animate__animated animate__fadeInUp">Transforming Landscapes</h1>
-              <h3 class="text-white animate__animated animate__fadeInUp" style="animation-delay: 0.2s">Quality Craftsmanship Since 2015</h3>
+              <h3 class="text-white animate__animated animate__fadeInUp" style="animation-delay: 0.2s">Quality Craftsmanship Since 2020</h3>
             </div>
           </div>
         </div>
@@ -98,7 +98,7 @@
     </div>
 
     <!-- Our Team Section -->
-    <div class="container py-5">
+    <!-- <div class="container py-5">
       <div class="row justify-content-center">
         <div class="col-12 text-center mb-5">
           <h2 class="display-4 text-warning animate__animated animate__fadeInUp" style="animation-delay: 3.0s">Our Team</h2>
@@ -147,7 +147,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <!-- Latest Projects Section -->
     <div class="container py-5">
@@ -158,12 +158,12 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-12">
+        <div class="col-12 proj-images">
           <div id="projectCarousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
               <div class="carousel-item active">
                 <div class="card h-100 bg-dark text-white">
-                  <img src="https://www.businessdailyafrica.com/resource/image/4692632/landscape_ratio16x9/1600/900/447f6a857aac20cdbb5b8cf4eecc9adf/Gf/office.jpg" class="card-img-top" alt="Project Alpha">
+                  <img src="https://images.unsplash.com/photo-1616764469868-7d70683e8b45?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top h-10 w-auto" alt="Project Alpha">
                   <div class="card-body">
                     <h5 class="card-title text-warning">Project Alpha: Modern Office Complex</h5>
                     <p class="card-text">Completed in 2024, featuring solar panels and energy-efficient design for 15 businesses.</p>
@@ -181,7 +181,7 @@
               </div>
               <div class="carousel-item">
                 <div class="card h-100 bg-dark text-white">
-                  <img src="https://transnzoia.go.ke/storage/2024/04/Road-Improvements-in-Kiminini-Sub-County.jpg" class="card-img-top" alt="Project Gamma">
+                  <img src="https://images.unsplash.com/photo-1575281923032-f40d94ef6160?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="Project Gamma">
                   <div class="card-body">
                     <h5 class="card-title text-warning">Project Gamma: Infrastructure Upgrade</h5>
                     <p class="card-text">Ongoing since 2023, upgrading 50 km of roads for improved connectivity.</p>
@@ -315,6 +315,10 @@
 
   .animate__animated.animate__fadeInUp {
     --animate-duration: 0.8s;
+  }
+
+  .proj-images img {
+    height: 30rem;
   }
 
   @media (max-width: 768px) {

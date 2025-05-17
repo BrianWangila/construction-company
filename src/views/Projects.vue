@@ -28,7 +28,7 @@
             <div class="card bg-light text-dark p-4 rounded-4 shadow-lg mb-4">
               <div class="row g-4">
                 <div class="col-12 col-md-6">
-                  <img src="https://www.businessdailyafrica.com/resource/image/4692632/landscape_ratio16x9/1600/900/447f6a857aac20cdbb5b8cf4eecc9adf/Gf/office.jpg" class="img-fluid rounded-3" alt="Project Alpha">
+                  <img src="https://images.unsplash.com/photo-1616764469868-7d70683e8b45?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="img-fluid rounded-3" alt="Project Alpha">
                 </div>
                 <div class="col-12 col-md-6">
                   <h3 class="card-title text-warning mb-3">Project Alpha: Modern Office Complex</h3>
@@ -64,7 +64,7 @@
             <div class="card bg-light text-dark p-4 rounded-4 shadow-lg mb-4">
               <div class="row g-4">
                 <div class="col-12 col-md-6">
-                  <img src="https://transnzoia.go.ke/storage/2024/04/Road-Improvements-in-Kiminini-Sub-County.jpg" class="img-fluid rounded-3" alt="Project Gamma">
+                  <img src="https://images.unsplash.com/photo-1575281923032-f40d94ef6160?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="img-fluid rounded-3" alt="Project Gamma">
                 </div>
                 <div class="col-12 col-md-6">
                   <h3 class="card-title text-warning mb-3">Project Gamma: Infrastructure Upgrade</h3>
@@ -81,7 +81,7 @@
         </div>
   
         <!-- Project Timeline -->
-        <div class="row justify-content-center mt-5">
+        <!-- <div class="row justify-content-center mt-5">
           <div class="col-12 col-lg-10">
             <h2 class="text-warning mb-4">Project Milestones</h2>
             <div class="timeline">
@@ -111,7 +111,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
   
         <!-- Client Testimonials -->
         <div class="row justify-content-center mt-5">

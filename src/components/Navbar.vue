@@ -91,6 +91,7 @@
   .logo-img {
     width: auto;
     transition: transform 0.3s ease;
+    border-radius: 5px;
   }
 
   .logo-img:hover {
