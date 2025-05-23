@@ -1,10 +1,10 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top ">
     <div class="container">
-      <router-link class="navbar-brand d-flex align-items-center fw-bold text-warning" to="/">
+      <a class="navbar-brand d-flex align-items-center fw-bold text-warning" href="/">
         <img src="/logo.PNG" alt="Logo" height="40" class="logo-img me-2" />
         Sindana Construction
-      </router-link>
+      </a>
 
       <button
         class="navbar-toggler"
@@ -21,7 +21,7 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <router-link class="nav-link active" aria-current="page" to="/" @click="closeNavbar">Home</router-link>
+            <a class="nav-link active" aria-current="page" href="/" @click="closeNavbar">Home</a>
           </li>
           <li class="nav-item">
             <router-link class="nav-link" to="/services" @click="closeNavbar">Our Services</router-link>

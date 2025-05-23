@@ -26,7 +26,7 @@
             <div class="overlay position-absolute top-0 start-0 w-100 h-100 bg-gradient bg-orange-500 opacity-40"></div>
             <div class="position-relative z-10">
               <h1 class="display-3 text-warning fw-bold mb-1 animate__animated animate__fadeInUp">Transforming Landscapes</h1>
-              <h3 class="text-white animate__animated animate__fadeInUp" style="animation-delay: 0.2s">Quality Craftsmanship Since 2020</h3>
+              <h3 class="text-white animate__animated animate__fadeInUp" style="animation-delay: 0.2s">High-Quality Craftsmanship</h3>
             </div>
           </div>
         </div>
@@ -55,7 +55,7 @@
             <i class="bi bi-tools display-5 mb-3"></i>
             <h4 class="card-title mb-3">Construction Excellence</h4>
             <p class="card-text mb-3">From foundations to finishes, we deliver top-quality construction with advanced techniques and sustainable practices.</p>
-            <router-link to="/services" class="btn btn-warning text-dark fw-bold transition-all duration-500 hover:bg-orange-500">Learn More</router-link>
+            <a href="/services" class="btn btn-warning text-dark fw-bold transition-all duration-500 hover:bg-orange-500">Learn More</a>
           </div>
         </div>
         <div class="col-12 col-md-6 col-lg-4">
@@ -63,7 +63,7 @@
             <i class="bi bi-box-seam display-5 mb-3"></i>
             <h4 class="card-title mb-3">General Supplies</h4>
             <p class="card-text mb-3">We provide office stationery, building materials, electronics, and more with nationwide delivery.</p>
-            <router-link to="/supplies" class="btn btn-warning text-dark fw-bold transition-all duration-500 hover:bg-orange-500">Explore Supplies</router-link>
+            <a href="/supplies" class="btn btn-warning text-dark fw-bold transition-all duration-500 hover:bg-orange-500">Explore Supplies</a>
           </div>
         </div>
         <div class="col-12 col-md-6 col-lg-4">
@@ -71,7 +71,7 @@
             <i class="bi bi-gear-wide-connected display-5 mb-3"></i>
             <h4 class="card-title mb-3">Maintenance & Support</h4>
             <p class="card-text mb-3">Ongoing support for properties and equipment, ensuring long-term reliability and performance.</p>
-            <router-link to="/services" class="btn btn-warning text-dark fw-bold transition-all duration-500 hover:bg-teal-500">Get Support</router-link>
+            <a href="/services" class="btn btn-warning text-dark fw-bold transition-all duration-500 hover:bg-teal-500">Get Support</a>
           </div>
         </div>
       </div>
@@ -89,7 +89,7 @@
             <li class="list-group-item bg-light text-dark animate__animated animate__fadeIn" style="animation-delay: 2.2s"><i class="bi bi-lightbulb text-warning me-2"></i> Innovative solutions</li>
             <li class="list-group-item bg-light text-dark animate__animated animate__fadeIn" style="animation-delay: 2.4s"><i class="bi bi-star text-warning me-2"></i> Uncompromising excellence</li>
           </ul>
-          <router-link to="/about" class="btn btn-warning mt-3 text-dark fw-bold transition-all duration-500 hover:bg-teal-500 animate__animated animate__fadeIn" style="animation-delay: 2.6s">Learn More</router-link>
+          <a href="/about" class="btn btn-warning mt-3 text-dark fw-bold transition-all duration-500 hover:bg-teal-500 animate__animated animate__fadeIn" style="animation-delay: 2.6s">Learn More</a>
         </div>
         <div class="col-12 col-lg-6">
           <img src="https://images.unsplash.com/photo-1712671596312-61d2bfa501ee?q=80&w=1075&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Construction Site" class="img-fluid rounded-4 shadow-lg animate__animated animate__fadeIn" style="animation-delay: 2.8s">

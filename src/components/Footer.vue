@@ -14,10 +14,10 @@
           <div class="footer-mobile col-12 col-md-6 col-lg-3">
             <h5 class="text-warning mb-3">Quick Links</h5>
             <ul class="list-unstyled">
-              <li><router-link to="/" class="text-gray-300 hover:text-teal-500 transition-all duration-300">Home</router-link></li>
-              <li><router-link to="/supplies" class="text-gray-300 hover:text-teal-500 transition-all duration-300">General Supplies</router-link></li>
-              <li><router-link to="/services" class="text-gray-300 hover:text-teal-500 transition-all duration-300">Our Services</router-link></li>
-              <li><router-link to="/projects" class="text-gray-300 hover:text-teal-500 transition-all duration-300">Our Projects</router-link></li>
+              <li><a href="/" class="text-gray-300 hover:text-teal-500 transition-all duration-300">Home</a></li>
+              <li><a href="/supplies" class="text-gray-300 hover:text-teal-500 transition-all duration-300">General Supplies</a></li>
+              <li><a href="/services" class="text-gray-300 hover:text-teal-500 transition-all duration-300">Our Services</a></li>
+              <!-- <li><a href="/projects" class="text-gray-300 hover:text-teal-500 transition-all duration-300">Our Projects</a></li> -->
               <li><a href="#" class="text-gray-300 hover:text-teal-500 transition-all duration-300">Careers</a></li>
             </ul>
           </div>
