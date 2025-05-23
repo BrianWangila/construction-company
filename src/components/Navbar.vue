@@ -21,19 +21,19 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <router-link class="nav-link active" aria-current="page" to="/">Home</router-link>
+            <router-link class="nav-link active" aria-current="page" to="/" @click="closeNavbar">Home</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/services">Our Services</router-link>
+            <router-link class="nav-link" to="/services" @click="closeNavbar">Our Services</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/supplies">General Supplies</router-link>
+            <router-link class="nav-link" to="/supplies" @click="closeNavbar">General Supplies</router-link>
           </li>
           <!-- <li class="nav-item">
             <router-link class="nav-link" to="/projects">Projects</router-link>
           </li> -->
           <li class="nav-item">
-            <router-link class="nav-link" to="/about">About</router-link>
+            <router-link class="nav-link" to="/about" @click="closeNavbar">About</router-link>
           </li>
         </ul>
       </div>
@@ -46,21 +46,18 @@
 
 
 <script setup>
-  // import { onMounted } from 'vue';
+import { ref } from 'vue';
 
-  // onMounted(() => {
-  //   setTimeout(() => {
-  //     const navbarCollapse = document.getElementById('navbarSupportedContent');
-  //     if (navbarCollapse) {
-  //       const bsCollapse = new bootstrap.Collapse(navbarCollapse, {
-  //         toggle: false
-  //       });
-  //       console.log('Collapse initialized:', navbarCollapse);
-  //     } else {
-  //       console.error('Navbar collapse element not found');
-  //     }
-  //   }, 100);
-  // });
+  const closeNavbar = () => {
+  const navbarCollapse = document.getElementById('navbarSupportedContent');
+    if (navbarCollapse && navbarCollapse.classList.contains('show')) {
+      const bsCollapse = new bootstrap.Collapse(navbarCollapse, {
+        toggle: false,
+      });
+      bsCollapse.hide();
+    }
+  };
+
 </script>
 
 
@@ -70,6 +67,12 @@
     border-bottom: 3px solid #f97316;
     transition: background-color 0.3s ease;
     background-color: #343a40;
+        
+  }
+
+  .collapse.show {
+    visibility: visible !important;
+    display: block !important;
   }
 
   .navbar-brand {
@@ -98,8 +101,10 @@
     transform: scale(1.2);
   }
 
+
   /* Mobile view styling */
   @media (max-width: 768px) {
+
     .navbar-collapse {
       position: absolute;
       top: 100%;

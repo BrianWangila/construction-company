@@ -82,7 +82,7 @@
       <div class="row justify-content-center align-items-center">
         <div class="learn-more col-12 col-lg-6">
           <h2 class="text-warning mb-4 animate__animated animate__fadeInUp" style="animation-delay: 1.4s">About Us</h2>
-          <p class="text-dark mb-3 animate__animated animate__fadeIn" style="animation-delay: 1.6s">Founded in 2025 in Bungoma, Kenya, Sindana Construction Co. began with a mission to deliver quality construction and supply solutions tailored to a dynamic world. Our vision is to be Kenya’s leading provider of innovative, sustainable services, transforming landscapes and supporting communities.</p>
+          <p class="text-dark mb-3 animate__animated animate__fadeIn" style="animation-delay: 1.6s">Founded in Bungoma, Kenya, Sindana Construction Co. began with a mission to deliver quality construction and supply solutions tailored to a dynamic world. Our vision is to be Kenya’s leading provider of innovative, sustainable services, transforming landscapes and supporting communities.</p>
           <p class="text-dark mb-3 animate__animated animate__fadeIn" style="animation-delay: 1.8s">With a skilled team, advanced equipment, and a commitment to sustainability, we serve clients nationwide. Beyond construction, we excel in general supplies, catering to diverse needs with integrity and excellence.</p>
           <ul class="list-group list-group-flush">
             <li class="list-group-item bg-light text-dark animate__animated animate__fadeIn" style="animation-delay: 2.0s"><i class="bi bi-check-circle text-warning me-2"></i> Integrity in every project</li>
@@ -215,8 +215,8 @@
         <div class="col-12 col-md-6 col-lg-3">
           <div class="card h-100 bg-gradient bg-teal-500 text-white p-4 rounded-4 shadow-lg transition-all duration-500 hover:shadow-xl animate__animated animate__fadeInUp" style="animation-delay: 5.0s">
             <i class="bi bi-clock-history display-5 mb-3"></i>
-            <h5 class="card-title">10+ Years Experience</h5>
-            <p class="card-text">Proven expertise since 2015 in construction and supply solutions.</p>
+            <h5 class="card-title">10+ Years Engineers Experience</h5>
+            <p class="card-text">Proven expertise in construction and supply solutions.</p>
           </div>
         </div>
         <div class="col-12 col-md-6 col-lg-3">
@@ -249,17 +249,16 @@
 
 <script setup>
   import { onMounted } from 'vue';
-  import Team from '@/components/Team.vue';
 
   onMounted(() => {
     new bootstrap.Carousel(document.getElementById('heroCarousel'), {
       interval: 5000,
       ride: 'carousel'
     });
-    new bootstrap.Carousel(document.getElementById('projectCarousel'), {
-      interval: 3000,
-      ride: 'carousel'
-    });
+    // new bootstrap.Carousel(document.getElementById('projectCarousel'), {
+    //   interval: 3000,
+    //   ride: 'carousel'
+    // });
   });
 
 </script>

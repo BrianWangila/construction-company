@@ -14,7 +14,7 @@
       <div class="row justify-content-center">
         <div class="col-12 col-lg-10">
           <h2 class="text-warning mb-4">Service Overview</h2>
-          <p class="text-dark mb-3">At Sindana Construction Co., we offer a wide range of construction and supply services designed to meet the diverse needs of our clients across Kenya. Since 2025, we’ve built a reputation for delivering top-quality solutions, from foundational construction to finishing touches, and providing high-quality materials for every project. Our services are tailored to ensure timely completion, cost efficiency, and sustainability, making us a trusted partner for both individual and corporate clients.</p>
+          <p class="text-dark mb-3">At Sindana Construction Co., we offer a wide range of construction and supply services designed to meet the diverse needs of our clients across Kenya. Since its incorporation, we’ve built a reputation for delivering top-quality solutions, from foundational construction to finishing touches, and providing high-quality materials for every project. Our services are tailored to ensure timely completion, cost efficiency, and sustainability, making us a trusted partner for both individual and corporate clients.</p>
           <p class="text-dark">Our team leverages advanced equipment, industry best practices, and a nationwide supply network to deliver exceptional results. Explore our services below to see how we can support your next project.</p>
         </div>
       </div>
@@ -109,7 +109,7 @@
                 <h3 class="card-title text-warning mb-3">Structural Engineering</h3>
                 <p class="card-text mb-3">Our structural engineering services include the design and construction of foundations, beams, columns, and load-bearing structures. We use advanced software for precise calculations and ensure compliance with Kenyan building codes.</p>
                 <p class="card-text mb-3"><strong>Applications:</strong> Essential for multi-story buildings, bridges, and industrial facilities.</p>
-                <p class="card-text"><strong>Why Choose Us:</strong> Our engineers have over 15 years of experience, and we prioritize safety and durability in every design.</p>
+                <p class="card-text"><strong>Why Choose Us:</strong> Our engineers have over 10 years of experience, and we prioritize safety and durability in every design.</p>
               </div>
             </div>
           </div>
@@ -229,7 +229,7 @@
         <div class="col-12 col-lg-10">
           <h2 class="text-warning mb-4">Need Construction or Supply Services?</h2>
           <p class="text-dark mb-4">Contact us today to discuss your project needs. We’re here to deliver quality solutions tailored to your requirements!</p>
-          <a href="mailto:info@sindana.co.ke" class="btn btn-warning text-dark fw-bold transition-all duration-500 hover:bg-teal-500">Get in Touch</a>
+          <a href="tel:+254714949268" class="btn btn-warning text-dark fw-bold transition-all duration-500 hover:bg-teal-500">Get in Touch</a>
         </div>
       </div>
     </div>

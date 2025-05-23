@@ -6,12 +6,12 @@
           <div class="col-12 col-md-6 col-lg-3">
             <div class="text-center text-lg-start">
               <img src="/logo.PNG" alt="Sindana Construction Logo" class="footer-logo mb-3">
-              <p class="text-gray-300">Sindana Construction Co. is a leading provider of construction services and general supplies in Kenya, based in Bungoma since 2025. We deliver quality, innovation, and sustainability in every project.</p>
+              <p class="text-gray-300">Sindana Construction Co. is a leading provider of construction services and general supplies in Kenya, based in Bungoma. We deliver quality, innovation, and sustainability in every project.</p>
             </div>
           </div>
 
           <!-- Quick Links Section -->
-          <div class="col-12 col-md-6 col-lg-3">
+          <div class="footer-mobile col-12 col-md-6 col-lg-3">
             <h5 class="text-warning mb-3">Quick Links</h5>
             <ul class="list-unstyled">
               <li><router-link to="/" class="text-gray-300 hover:text-teal-500 transition-all duration-300">Home</router-link></li>
@@ -23,11 +23,12 @@
           </div>
 
           <!-- Contact Information Section -->
-          <div class="col-12 col-md-6 col-lg-3">
+          <div class="footer-mobile col-12 col-md-6 col-lg-3">
             <h5 class="text-warning mb-3">Contact Us</h5>
             <ul class="list-unstyled text-gray-300">
-              <li><strong>Address:</strong> P.O Box 550, Bungoma, Kenya</li>
-              <li><strong>Phone:</strong> +254 714 949 268</li>
+              <li><strong>Address:</strong> P.O Box 550, Bungoma, Kenya</li>               
+              <li><strong>Phone:</strong> <a href="tel:+254714949268" class="text-warning hover:text-teal-500 transition-all duration-300">+254 714 949 268</a></li>
+              <li><strong>WhatsApp:</strong> <a href="https://wa.me/254714949268" class="text-warning hover:text-teal-500 transition-all duration-300">+254 714 949 268</a></li>
               <li><strong>Email:</strong> <a href="mailto:info@sindana.co.ke" class="text-warning hover:text-teal-500 transition-all duration-300">info@sindana.co.ke</a></li>
               <li><strong>Office Hours:</strong> Mon–Fri, 8:00 AM–5:00 PM</li>
               <li class="mt-2">
@@ -41,7 +42,7 @@
           </div>
 
           <!-- Newsletter Signup Section -->
-          <div class="col-12 col-md-6 col-lg-3">
+          <div class="footer-mobile col-12 col-md-6 col-lg-3">
             <h5 class="text-warning mb-3">Stay Updated</h5>
             <p class="text-gray-300">Subscribe to our newsletter for the latest updates on projects, supplies, and industry news.</p>
             <div class="input-group mb-3">
@@ -93,6 +94,28 @@
   }
   footer .bi {
     font-size: 1.5rem;
+  }
+
+
+  /* on mobile view */
+  @media (max-width: 768px) {
+    .footer-logo {
+      height: 5rem;
+    }
+    footer .bi {
+      font-size: 1.2rem;
+    }
+    footer h5 {
+      font-size: 1.25rem;
+    }
+    footer p {
+      font-size: 0.9rem;
+    }
+
+    .footer-mobile {
+      text-align: center;
+    }
+
   }
 
   

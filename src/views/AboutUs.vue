@@ -13,7 +13,7 @@
     <div class="row justify-content-center">
       <div class="col-12 col-lg-10">
         <h3 class="text-warning mb-4">Our Story</h3>
-        <p class="text-dark mb-3">Founded in 2025 in Bungoma, Kenya, Sindana Construction Co. was established with a clear mission: to help businesses and communities overcome the challenges of construction and supply needs through accessible, high-quality services. Our founders, seasoned professionals in construction and supply chain management, recognized the gap in affordable and reliable solutions for local enterprises. Over the past decade, we’ve grown from a small team in Bumula District to a respected name across Kenya, facilitating over $10 million in construction projects and supply transactions. We’ve expanded our operations to serve clients in urban and rural areas, delivering innovative solutions with a commitment to excellence.</p>
+        <p class="text-dark mb-3">Founded in Bungoma, Kenya, Sindana Construction Co. was established with a clear mission: to help businesses and communities overcome the challenges of construction and supply needs through accessible, high-quality services. Our founders, seasoned professionals in construction and supply chain management, recognized the gap in affordable and reliable solutions for local enterprises. Over the past decade, we’ve grown from a small team in Bumula District to a respected name across Kenya, facilitating over $10 million in construction projects and supply transactions. We’ve expanded our operations to serve clients in urban and rural areas, delivering innovative solutions with a commitment to excellence.</p>
         <p class="text-dark">Our journey includes partnerships with leading manufacturers and distributors, enabling us to provide a wide range of building materials, general supplies, and construction services. We take pride in equipping job sites with specialized tools like truck-mounted forklifts, ensuring safe and efficient deliveries to even the most challenging locations.</p>
         <a href="/assets/SINDANA_COMPANY_PROFILE.pdf" download class="btn btn-outline-warning mt-3">Download Company Profile</a>
       </div>
@@ -65,7 +65,7 @@
     <div class="row justify-content-center mt-4">
       <div class="col-12 col-lg-10">
         <h3 class="text-warning mb-4">Community Impact</h3>
-        <p class="text-dark mb-3">Sindana Construction Co. is committed to giving back to the Bungoma community and beyond. We’ve initiated training programs for local youth in construction skills, partnered with local schools to improve infrastructure, and supported environmental projects like reforestation around construction sites. Our efforts have created over 100 jobs and contributed to sustainable development in the region.</p>
+        <p class="text-dark mb-3">Sindana Construction Co. is committed to giving back to the Bungoma community and beyond. We’ve initiated training programs for local youth in construction skills, partnered with local schools to improve infrastructure, and supported environmental projects like reforestation around construction sites. Our efforts have created over 50 jobs (and counting) and contributed to sustainable development in the region.</p>
       </div>
     </div>
 
@@ -73,7 +73,7 @@
     <div class="row justify-content-center mt-4">
       <div class="col-12 col-lg-10">
         <h3 class="text-warning mb-4">Our Future</h3>
-        <p class="text-dark mb-3">Looking ahead, Sindana Construction Co. aims to expand our reach across East Africa by 2030, introducing smart construction technologies and eco-friendly supply chains. We plan to launch a client portal for real-time project tracking and enhance our training programs to empower more local talent.</p>
+        <p class="text-dark mb-3">Looking ahead, Sindana Construction Co. aims to expand our reach across East Africa by 2035, introducing smart construction technologies and eco-friendly supply chains. We plan to launch a client portal for real-time project tracking and enhance our training programs to empower more local talent.</p>
       </div>
     </div>
   </div>
